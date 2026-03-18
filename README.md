@@ -1,9 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:141E30,100:243B55&text=Gabriel%20Augusto&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=37&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:141E30,100:243B55&text=Gabriel%20Augusto&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=37&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlign=50&descAlignY=60" />
 </div>
 
-Me chamo Gabriel Augusto, tenho 20 anos e moro em São Paulo. Atualmente, estou cursando Sistemas para Informação na FATEC. Sou apaixonado por tecnologia e estou sempre em busca de aprender e evoluir na área de desenvolvimento, criando projetos e aprimorando minhas habilidades como desenvolvedor.
+## 👨‍💻 Sobre mim
 
+- 🎓 Estudante de Sistemas de Informação na FATEC  
+- 📍 São Paulo - Brasil  
+- 💻 Desenvolvedor Full Stack em evolução  
+
+
+Sou apaixonado por tecnologia e estou sempre buscando aprender mais, criando projetos e aprimorando minhas habilidades no desenvolvimento.
+
+##
 <p align="left">
     <a href="https://github.com/GabrielAugusto-1?tab=repositories&sort=stargazers">
         <img 
@@ -18,6 +26,12 @@ Me chamo Gabriel Augusto, tenho 20 anos e moro em São Paulo. Atualmente, estou 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/GabrielAugusto-1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+    </a>   
+  <a  href="https://www.instagram.com/gabrielslaa2" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/5517981476225" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
 </p>
 
@@ -114,20 +128,17 @@ Me chamo Gabriel Augusto, tenho 20 anos e moro em São Paulo. Atualmente, estou 
 
 ### 📊 Estatísticas
 
-<p>
+<div align=center display=flex>
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180em" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GabrielAugusto-1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
+    <img 
       alt="GitHub Stats" 
-      height="200" 
+      height="180em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAugusto-1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</div>
