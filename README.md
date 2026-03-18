@@ -12,7 +12,7 @@ Me chamo Gabriel Augusto, tenho 20 anos e moro em São Paulo. Atualmente, estou 
             src="https://custom-icon-badges.demolab.com/github/stars/GabrielAugusto-1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/GabrielAugusto-1?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
