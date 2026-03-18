@@ -137,7 +137,7 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais, criando pro
   />
     <img 
       alt="GitHub Stats" 
-      height="180em" 
+      height="100em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAugusto-1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
