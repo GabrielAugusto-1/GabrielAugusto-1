@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Gabriel Augusto Firmino dos Santos
-
-**`Desenvolvedor FullStack`**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:141E30,100:243B55&text=Gabriel%20Augusto&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=37&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlign=50&descAlignY=60" />
+</div>
 
 Me chamo Gabriel Augusto, tenho 20 anos e moro em São Paulo. Atualmente, estou cursando Sistemas para Informação na FATEC. Sou apaixonado por tecnologia e estou sempre em busca de aprender e evoluir na área de desenvolvimento, criando projetos e aprimorando minhas habilidades como desenvolvedor.
 
