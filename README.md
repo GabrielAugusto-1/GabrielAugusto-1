@@ -128,17 +128,13 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais, criando pro
 
 ### 📊 Estatísticas
 
-<div align=center display=flex>
+<div align="center">
   <img 
-    alt="GitHub Stats" 
-    height="180em" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielAugusto-1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180px"
+    src="https://github-readme-stats.vercel.app/api?username=GabrielAugusto-1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=00000000"
   />
-    <img 
-      alt="GitHub Stats" 
-      height="100em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAugusto-1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="180px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAugusto-1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=00000000"
   />
-
 </div>
