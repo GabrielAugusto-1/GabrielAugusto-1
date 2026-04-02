@@ -148,3 +148,10 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais, criando pro
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielAugusto-1/GabrielAugusto-1/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielAugusto-1/GabrielAugusto-1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielAugusto-1/GabrielAugusto-1/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/GabrielAugusto-1/GabrielAugusto-1/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
