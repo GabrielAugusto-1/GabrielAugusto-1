@@ -155,3 +155,5 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais, criando pro
     <img src="https://raw.githubusercontent.com/GabrielAugusto-1/GabrielAugusto-1/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+super super
